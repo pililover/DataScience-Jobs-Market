@@ -1,4 +1,4 @@
-# DataScience-Jobs-Market-Analysis
+# Youtube-trending-video-analysis
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -11,6 +11,6 @@
 - Trần Diệu Huyền - 22127170
 
 ### 1.2 Project's objectives:
-- Analyze the job market for Data Science in Vietnam
+- Analyze the top trending youtube video data
 - Provide insights for 
 
