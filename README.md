@@ -1,4 +1,4 @@
-# DataScience-Jobs-Market
+# DataScience-Jobs-Market-Analysis
 
 ## Table of Contents
 1. [Introduction](#introduction)
