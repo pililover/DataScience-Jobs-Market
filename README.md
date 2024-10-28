@@ -8,7 +8,7 @@
 - Đặng Châu Anh - 22127008
 - Nguyễn Kim Anh - 22127014
 - Đỗ Minh Huy - 22127147
-- Trần Diệu Huyền - 22127170
+- Trần Dịu Huyền - 22127170
 
 ### 1.2 Project's objectives:
 - Analyze the top trending spotify music data
