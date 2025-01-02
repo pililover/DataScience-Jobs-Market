@@ -20,7 +20,7 @@
 - The Vietnamese music industry has significant growth in 2024, with a surge in both quantity and quality of music products. This project uses Spotify data to better understand the changing tastes of Vietnamese listeners. By identifying popular songs, albums, and new trends, the project will provide useful insights to help industry professionals, artists, and fans stay updated on current music preferences.
 
 ### 1.4 Project's plan
-We planned and discussed the problems together, then record it at [Trello](https://trello.com/invite/b/677049104337e628b16d8c89/ATTI66cd9ebf43140e6abfe1262d5faf8237147BBF37/introdsspotify-rewind-2024).
+We planned and discussed the problems together, then record it at [Trello](https://trello.com/invite/b/677049104337e628b16d8c89/ATTI5b031e9a62ca1955914d816f60c99ea82B2B34B1/introdsspotify-rewind-2024).
 
 ## 2. Data:
 **Both raw and cleaned data can be found in the `data` and `cleaned_data` folders, respectively in github repository.**
