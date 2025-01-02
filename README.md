@@ -37,7 +37,7 @@ During the implementation of this project, we encountered many obstacles:
 ### **Lessons Learned**
 - Through this project, we learned how to organize and divide work appropriately. Through the process of completing the project, we effectively analyzed and extracted insights from raw datasets. Additionally, we gained valuable experience in managing our time efficiently for each phase of the project.
     - 22127008: 
-    - 22127014: 
+    - 22127014: After this project, parsing data from the website is no longer a difficulty for me. I also learned how to frame the problems directly and provide questions that are meaningful and insightful which is very important in data analysis.
     - 22127147: 
     - 22127170: 
 
