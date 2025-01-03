@@ -38,7 +38,7 @@ During the implementation of this project, we encountered many obstacles:
 - Through this project, we learned how to organize and divide work appropriately. Through the process of completing the project, we effectively analyzed and extracted insights from raw datasets. Additionally, we gained valuable experience in managing our time efficiently for each phase of the project.
     - 22127008: After completing this project, I learned how to choose a model and use metrics to predict the required results. In addition, understanding and visualizing data into understandable insights is also an interesting thing that I learned during the process of doing this project.
     - 22127014: After this project, parsing data from the website is no longer a difficulty for me. I also learned how to frame the problems directly and provide questions that are meaningful and insightful which is very important in data analysis.
-    - 22127147: 
+    - 22127147: After completing this project, I have learned a lot about data analysis, but the most impressive thing is that I have learned how to evaluate the regression model and how to choose the right model for the data.
     - 22127170: Thanks to this project, I learned how to preprocess and clean data effectively. I also gained experience in choosing the right visualization techniques to present data insights meaningfully. This project helped me understand the importance of data preprocessing and visualization in the data analysis process.
 
 ### **Future Improvements**
