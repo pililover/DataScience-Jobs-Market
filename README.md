@@ -39,7 +39,7 @@ During the implementation of this project, we encountered many obstacles:
     - 22127008: After completing this project, I learned how to choose a model and use metrics to predict the required results. In addition, understanding and visualizing data into understandable insights is also an interesting thing that I learned during the process of doing this project.
     - 22127014: After this project, parsing data from the website is no longer a difficulty for me. I also learned how to frame the problems directly and provide questions that are meaningful and insightful which is very important in data analysis.
     - 22127147: 
-    - 22127170: 
+    - 22127170: Thanks to this project, I learned how to preprocess and clean data effectively. I also gained experience in choosing the right visualization techniques to present data insights meaningfully. This project helped me understand the importance of data preprocessing and visualization in the data analysis process.
 
 ### **Future Improvements**
 - If our group had more time, we would have liked to delve deeper into the dataset to uncover more insights and scrape more data from different sources to enrich the dataset cause we think it would be more interesting and informative. Furthermore, we would like to use various machine learning algorithms to predict the number of cases in the future.
